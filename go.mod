@@ -1,4 +1,4 @@
-module github.com/libdns/selectelv2-libdns
+module github.com/jjazzme/selectelv2-libdns
 
 go 1.23
 
@@ -11,7 +11,7 @@ require (
 )
 
 require (
-	github.com/jjazzme/selectelv2-libdns v0.1.0
+	github.com/jjazzme/selectelv2-libdns v1.0.1
 	github.com/joho/godotenv v1.5.1
 	github.com/stretchr/testify v1.9.0
 )
