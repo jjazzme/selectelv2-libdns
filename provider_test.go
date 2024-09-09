@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
+	"github.com/jjazzme/selectelv2-libdns"
 	"github.com/joho/godotenv"
 	"github.com/libdns/libdns"
-	"github.com/libdns/selectelv2-libdns"
 	"github.com/stretchr/testify/assert"
 )
 
